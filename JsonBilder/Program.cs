@@ -10,6 +10,8 @@ namespace JsonBilder
     {
         static void Main(string[] args)
         {
+            Test.test1();
+            //Test.test2();
         }
     }
 }
